@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/render.dir/main.cpp.o CMakeFiles/render.dir/glad.c.o -o render  -lglfw /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so 
