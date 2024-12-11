@@ -1,3 +1,0 @@
-/home/ashvin/CG_Ass4/build/CMakeFiles/render.dir
-/home/ashvin/CG_Ass4/build/CMakeFiles/edit_cache.dir
-/home/ashvin/CG_Ass4/build/CMakeFiles/rebuild_cache.dir

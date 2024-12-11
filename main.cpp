@@ -101,7 +101,7 @@ void processInput(GLFWwindow* window)
 
 	// rotate object around the z-axis
 	if (glfwGetKey(window, GLFW_KEY_R) == GLFW_PRESS)
-		model = glm::rotate(model, glm::radians(0.5f), glm::vec3(0.0f, 0.0f, 1.0f));
+		model = glm::rotate(model, glm::radians(0.5f), glm::vec3(0.0f, 0.0f, -1.0f));
 
 	static bool keyReleased = true;
 	
