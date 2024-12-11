@@ -54,4 +54,6 @@ Shape Conversion:
 
 - 'T' - Transform the prism into a pyramid
 
+Close Program:
+
 - 'Esc' - Exit the program
